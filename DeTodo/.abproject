@@ -1,0 +1,45 @@
+{
+  "ProjectName": "DeTodo",
+  "ProjectGuid": "680805d9-a121-41bb-8f54-5b001d83953d",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.DeTodo",
+  "DisplayName": "DeTodo",
+  "Author": "",
+  "Description": "DeTodo",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "6.4.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{1b32283b-6980-4daa-a9a6-02458b56c09c}",
+  "WP8ProductID": "{42802436-d549-4e8e-b1ef-8d18b39f215e}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.DeTodo",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
